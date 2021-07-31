@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @javaidKJ
+- 👋 Hi, I’m Khizer
 - 👀 I’m interested in ... Python, Data Science, C#, Unity
 - 🌱 I’m currently learning ... Python, Sql and C#
 - 💞️ I’m looking to collaborate on ...
